@@ -1,19 +1,16 @@
-# Crop3D-Mobile
+# Airmeasurer
 
-Yulei Zhu<sup>1</sup>, Gang Sun<sup>1</sup>, Guohui Ding <sup>1</sup>, Jie Zhou<sup>1</sup>,Mingxing Wen<sup>1</sup>,Xiu-e Wang<sup>1</sup>,Joshua Colmer<sup>3</sup>,Eric S Ober<sup>2</sup>,Simon Griffiths<sup>4</sup>, Ji Zhou<sup>1,2*</sup>
+Gang Sun<sup>1+</sup>, Hengyun Lu<sup>2+</sup>, Jie Zhou <sup>1</sup>, Yan Zhao<sup>2+</sup>,Yulei Zhu<sup>1</sup>,Zhou Zhu<sup>2</sup>,Robert Jackson<sup>3</sup>,Eric S Ober<sup>3</sup>,Ahong Wang<sup>2</sup>, Qiang Zhao<sup>2</sup>, Bin Han<sup>2*</sup>, Ji Zhou<sup>1,3*</sup>
 
-<sup>1</sup>1State Key Laboratory of Crop Genetics & Germplasm Enhancement, Plant Phenomics Research Center, College of Engineering, Jiangsu Collaborative Innovation Center for Modern Crop Production co-sponsored by Province and Ministry, Nanjing Agricultural University, Nanjing 210095, China  
+<sup>1</sup>1State Key Laboratory of Crop Genetics & Germplasm Enhancement, Plant Phenomics Research Center, College of Agriculture, College of Engineering, Academy for Advanced Interdisciplinary Studies, Jiangsu Collaborative Innovation Center for Modern Crop Production Co-sponsored by Province and Ministry, Nanjing Agricultural University, Nanjing 210095, China;  
 
-<sup>2</sup>Cambridge Crop Research, National Institute of Agricultural Botany (NIAB), Cambridge CB3 0LE, UK  
+<sup>2</sup>National Center for Gene Research, CAS Center for Excellence in Molecular Plant Sciences, Chinese Academy of Sciences, Shanghai 200233, China;
+<sup>3</sup>Data Sciences, Cambridge Crop Research, National Institute of Agricultural Botany (NIAB), Cambridge CB3 0LE, UK.  
 
-<sup>3</sup>Earlham Institute, Norwich Research Park, Norwich NR4 7UH, UK 
-
-<sup>4</sup>Crop Genetics, John Innes Centre, Norwich Research Park, Norwich NR4 7UH, UK
-
-<sup>*</sup>Correspondence: Ji.Zhou@NJAU.edu.cn or Ji.Zhou@NIAB.com
+<sup>*</sup>Correspondence: Ji.Zhou@NJAU.edu.cn or Ji.Zhou@NIAB.com; bhan@ncgr.ac.cn
 
 ## Install Python, Anaconda and Libraries
-If you wish to run Crop3D-Mobile from the code, you will need to set up Python on your system. 
+If you wish to run AirMeasurer from the code, you will need to set up Python on your system. 
 
 1. Install Python releases:
    
@@ -26,7 +23,7 @@ If you wish to run Crop3D-Mobile from the code, you will need to set up Python o
    •	For Mac OS users, Python 3 release can be downloaded via: 
    https://www.python.org/downloads/mac-osx/
    
-   •	Crop3D-Mobile only supports Python 3
+   •	AirMeasurer only supports Python 3
 
 2. Install Anaconda Python distribution:
    
@@ -45,24 +42,21 @@ If you wish to run Crop3D-Mobile from the code, you will need to set up Python o
 
 3. Install packages:
 
-   • Crop3D-Mobile uses a number of 3rd-party libraries that you may need to add to your conda environment.
+   • AirMeasurer uses a number of 3rd-party libraries that you may need to add to your conda environment.
    These include, but are not limited to:
    
        Laspy=1.7.0
        Whitebox==1.3.0
        GDAL=3.1.4
-       Rasterio=1.1.8
-       Open3d==0.11.2
-       mayavi==4.7.2
-       Scikit-image=0.17.2
-       Opencv-python==4.4.0.46
-       Matplotlib =3.3.3
-       Pandas=1.1.5
-       Numpy=1.19.4
-       Scipy=1.5.3
+       Rasterio=1.2.0
+       CSF=1.1.1
+       Scikit-image=0.16.2
+       Opencv-contrib-python==3.4.2.16
+       Matplotlib =3.1.3
+       Pandas=1.0.1
+       Numpy=1.20.1
+       Scipy=1.4.1
    
-## Running Crop3D-Mobile
+## Running AirMeasurer
 
-Please see the README.docx file that is included in this repository. 
-
-We have a Windows .exe (Crop3D-Mobile-1.0.zip)  file you can download.
+We have a Windows .exe (AirMeasurer.zip)  file you can download.
