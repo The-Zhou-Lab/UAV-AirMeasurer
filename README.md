@@ -1,4 +1,4 @@
-# Airmeasurer
+# AirMeasurer
 
 Gang Sun<sup>1+</sup>, Hengyun Lu<sup>2+</sup>, Jie Zhou <sup>1</sup>, Yan Zhao<sup>2+</sup>,Yulei Zhu<sup>1</sup>,Zhou Zhu<sup>2</sup>,Robert Jackson<sup>3</sup>,Eric S Ober<sup>3</sup>,Ahong Wang<sup>2</sup>, Qiang Zhao<sup>2</sup>, Bin Han<sup>2*</sup>, Ji Zhou<sup>1,3*</sup>
 
