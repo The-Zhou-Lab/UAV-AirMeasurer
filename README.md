@@ -1,12 +1,14 @@
 # AirMeasurer
 
-Gang Sun<sup>1+</sup>, Hengyun Lu<sup>2+</sup>, Jie Zhou <sup>1</sup>, Yan Zhao<sup>2+</sup>,Yulei Zhu<sup>1</sup>,Zhou Zhu<sup>2</sup>,Robert Jackson<sup>3</sup>,Eric S Ober<sup>3</sup>,Ahong Wang<sup>2</sup>, Qiang Zhao<sup>2</sup>, Bin Han<sup>2*</sup>, Ji Zhou<sup>1,3*</sup>
+Gang Sun<sup>1+</sup>, Hengyun Lu<sup>2+</sup>, Yan Zhao<sup>2</sup>, Robert Jackson<sup>3</sup>,Yulei Zhu<sup>1</sup>,Jie Zhou<sup>1</sup>,Yongchun Wang<sup>2</sup>,Ahong Wang<sup>2</sup>,Eric Ober<sup>3</sup>, Joshua Colmer<sup>4</sup>, Qiang Zhao<sup>2</sup>,Bin Han<sup>2*</sup>, Ji Zhou<sup>1,3*</sup>
 
-<sup>1</sup>1State Key Laboratory of Crop Genetics & Germplasm Enhancement, Plant Phenomics Research Center, College of Agriculture, College of Engineering, Academy for Advanced Interdisciplinary Studies, Jiangsu Collaborative Innovation Center for Modern Crop Production Co-sponsored by Province and Ministry, Nanjing Agricultural University, Nanjing 210095, China;  
+<sup>1</sup>State Key Laboratory of Crop Genetics & Germplasm Enhancement, College of Agriculture, College of Engineering, Academy for Advanced Interdisciplinary Studies, Plant Phenomics Research Center, Jiangsu Collaborative Innovation Center for Modern Crop Production Co-sponsored by Province and Ministry, Nanjing Agricultural University, Nanjing 210095, China;
 
 <sup>2</sup>National Center for Gene Research, CAS Center for Excellence in Molecular Plant Sciences, Chinese Academy of Sciences, Shanghai 200233, China;
 
-<sup>3</sup>Data Sciences, Cambridge Crop Research, National Institute of Agricultural Botany (NIAB), Cambridge CB3 0LE, UK.  
+<sup>3</sup>Cambridge Crop Research, National Institute of Agricultural Botany, Cambridge CB3 0LE, UK;
+
+<sup>4</sup>Earlham Institute, Norwich Research Park, Norwich NR4 7UH, UK; 4Earlham Institute, Norwich Research Park, Norwich NR4 7UH, UK.
 
 <sup>*</sup>Correspondence: Ji.Zhou@NJAU.edu.cn or Ji.Zhou@NIAB.com; bhan@ncgr.ac.cn
 
@@ -48,14 +50,14 @@ If you wish to run AirMeasurer from the code, you will need to set up Python on 
    
        Laspy=1.7.0
        Whitebox==1.3.0
-       GDAL=3.1.4
+       GDAL=3.2.1
        Rasterio=1.2.0
        CSF=1.1.1
        Scikit-image=0.16.2
        Opencv-contrib-python==3.4.2.16
        Matplotlib =3.1.3
        Pandas=1.0.1
-       Numpy=1.20.1
+       Numpy=1.18.1
        Scipy=1.4.1
    
 ## Running AirMeasurer
