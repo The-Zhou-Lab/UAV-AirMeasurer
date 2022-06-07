@@ -1,8 +1,8 @@
 # AirMeasurer
 
-Gang Sun<sup>1+</sup>, Hengyun Lu<sup>2+</sup>, Yan Zhao<sup>2</sup>, Robert Jackson<sup>3</sup>,Yulei Zhu<sup>1</sup>,Jie Zhou<sup>1</sup>,Yongchun Wang<sup>2</sup>,Ahong Wang<sup>2</sup>,Eric Ober<sup>3</sup>, Joshua Colmer<sup>4</sup>, Qiang Zhao<sup>2</sup>,Bin Han<sup>2*</sup>, Ji Zhou<sup>1,3*</sup>
+Gang Sun<sup>1+</sup>, Hengyun Lu<sup>2+</sup>, Yan Zhao<sup>2</sup>, Robert Jackson<sup>3</sup>,Jie Zhou<sup>1</sup>,Yongchun Wang<sup>2</sup>,Ahong Wang<sup>2</sup>,Eric Ober<sup>3</sup>, Joshua Colmer<sup>4</sup>, Qiang Zhao<sup>2</sup>,Bin Han<sup>2*</sup>, Ji Zhou<sup>1,3*</sup>
 
-<sup>1</sup>State Key Laboratory of Crop Genetics & Germplasm Enhancement, College of Agriculture, College of Engineering, Academy for Advanced Interdisciplinary Studies, Plant Phenomics Research Center, Jiangsu Collaborative Innovation Center for Modern Crop Production Co-sponsored by Province and Ministry, Nanjing Agricultural University, Nanjing 210095, China;
+<sup>1</sup>State Key Laboratory of Crop Genetics & Germplasm Enhancement, College of Agriculture, Academy for Advanced Interdisciplinary Studies, Jiangsu Collaborative Innovation Center for Modern Crop Production Co-sponsored by Province and Ministry, Nanjing Agricultural University, Nanjing 210095, China;
 
 <sup>2</sup>National Center for Gene Research, CAS Center for Excellence in Molecular Plant Sciences, Chinese Academy of Sciences, Shanghai 200233, China;
 
