@@ -10,7 +10,7 @@ Gang Sun<sup>1+</sup>, Hengyun Lu<sup>2+</sup>, Yan Zhao<sup>2</sup>, Robert J
 
 <sup>4</sup>Earlham Institute, Norwich Research Park, Norwich NR4 7UH, UK; 4Earlham Institute, Norwich Research Park, Norwich NR4 7UH, UK.
 
-<sup>*</sup>Correspondence: Ji.Zhou@NJAU.edu.cn or Ji.Zhou@NIAB.com; bhan@ncgr.ac.cn
+<sup>*</sup>Correspondence: Ji.Zhou@NJAU.edu.cn or Ji.Zhou@NIAB.com
 
 ## Install Python, Anaconda and Libraries
 If you wish to run AirMeasurer from the code, you will need to set up Python on your system. 
