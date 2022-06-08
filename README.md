@@ -1,6 +1,6 @@
 # AirMeasurer
 
-Gang Sun<sup>1+</sup>, Hengyun Lu<sup>2+</sup>, Yan Zhao<sup>2</sup>, Robert Jackson<sup>3</sup>,Jie Zhou<sup>1</sup>,Yongchun Wang<sup>2</sup>,Ahong Wang<sup>2</sup>,Eric Ober<sup>3</sup>, Joshua Colmer<sup>4</sup>, Qiang Zhao<sup>2</sup>,Bin Han<sup>2*</sup>, Ji Zhou<sup>1,3*</sup>
+Gang Sun<sup>1+</sup>, Hengyun Lu<sup>2+</sup>, Yan Zhao<sup>2</sup>, Robert Jackson<sup>3</sup>,Jie Zhou<sup>1</sup>,Yongchun Wang<sup>2</sup>,Ahong Wang<sup>2</sup>,Eric Ober<sup>3</sup>, Joshua Colmer<sup>4</sup>, Qiang Zhao<sup>2</sup>, Bin Han<sup>2*</sup>, Ji Zhou<sup>1,3*</sup>
 
 <sup>1</sup>State Key Laboratory of Crop Genetics & Germplasm Enhancement, College of Agriculture, Academy for Advanced Interdisciplinary Studies, Jiangsu Collaborative Innovation Center for Modern Crop Production Co-sponsored by Province and Ministry, Nanjing Agricultural University, Nanjing 210095, China;
 
@@ -13,7 +13,7 @@ Gang Sun<sup>1+</sup>, Hengyun Lu<sup>2+</sup>, Yan Zhao<sup>2</sup>, Robert J
 <sup>*</sup>Correspondence: Ji.Zhou@NJAU.edu.cn or Ji.Zhou@NIAB.com
 
 ## Install Python, Anaconda and Libraries
-If you wish to run AirMeasurer from the code, you will need to set up Python on your system. 
+If you wish to run AirMeasurer from source code, you will need to set up Python on your operating system. 
 
 1. Install Python releases:
    
@@ -26,7 +26,7 @@ If you wish to run AirMeasurer from the code, you will need to set up Python on 
    •	For Mac OS users, Python 3 release can be downloaded via: 
    https://www.python.org/downloads/mac-osx/
    
-   •	AirMeasurer only supports Python 3
+   •	AirMeasurer only supports Python 3 onwards
 
 2. Install Anaconda Python distribution:
    
@@ -60,6 +60,6 @@ If you wish to run AirMeasurer from the code, you will need to set up Python on 
        Numpy=1.18.1
        Scipy=1.4.1
    
-## Running AirMeasurer
+## Running AirMeasurer GUI
 
-We have a Windows .exe (AirMeasurer.zip)  file you can download.
+A Windows executable file (.exe) can be downloaded from the latest release together with a compressed file (AirMeasurer.zip).
