@@ -1,6 +1,6 @@
 # AirMeasurer
 
-Gang Sun<sup>1+</sup>, Hengyun Lu<sup>2+</sup>, Yan Zhao<sup>2</sup>, Robert Jackson<sup>3</sup>,Jie Zhou<sup>1</sup>,Yongchun Wang<sup>2</sup>,Ahong Wang<sup>2</sup>,Eric Ober<sup>3</sup>, Joshua Colmer<sup>4</sup>, Qiang Zhao<sup>2</sup>, Bin Han<sup>2*</sup>, Ji Zhou<sup>1,3*</sup>
+Gang Sun<sup>1*</sup>, Jie Zhou<sup>1</sup>, Qiang Zhao<sup>2</sup>, Bin Han<sup>2</sup>, Ji Zhou<sup>1,3*</sup>
 
 <sup>1</sup>State Key Laboratory of Crop Genetics & Germplasm Enhancement, College of Agriculture, Academy for Advanced Interdisciplinary Studies, Jiangsu Collaborative Innovation Center for Modern Crop Production Co-sponsored by Province and Ministry, Nanjing Agricultural University, Nanjing 210095, China;
 
@@ -8,9 +8,7 @@ Gang Sun<sup>1+</sup>, Hengyun Lu<sup>2+</sup>, Yan Zhao<sup>2</sup>, Robert J
 
 <sup>3</sup>Cambridge Crop Research, National Institute of Agricultural Botany, Cambridge CB3 0LE, UK;
 
-<sup>4</sup>Earlham Institute, Norwich Research Park, Norwich NR4 7UH, UK; 4Earlham Institute, Norwich Research Park, Norwich NR4 7UH, UK.
-
-<sup>*</sup>Correspondence: Ji.Zhou@NJAU.edu.cn or Ji.Zhou@NIAB.com
+<sup>*</sup>Correspondence for the source code and GUI software: 2018101176@njau.edu.cn; Ji.Zhou@NJAU.edu.cn or Ji.Zhou@NIAB.com
 
 ## Install Python, Anaconda and Libraries
 If you wish to run AirMeasurer from source code, you will need to set up Python on your operating system. 
